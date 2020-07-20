@@ -2,11 +2,14 @@
 
 
 [![Docker Automated build](https://img.shields.io/docker/automated/jean1989/docker-siege.svg)](https://hub.docker.com/r/jean1989/docker-siege) [![Docker Stars](https://img.shields.io/docker/stars/jean1989/docker-siege.svg)](https://hub.docker.com/r/jean1989/docker-siege/) [![Docker Pulls](https://img.shields.io/docker/pulls/jean1989/docker-siege.svg)](https://hub.docker.com/r/jean1989/docker-siege)
+[![MicroBadger Size](https://img.shields.io/microbadger/image-size/jean1989/docker-siege.svg)]( https://hub.docker.com/r/jean1989/docker-siege)
+
+
 
 
 This image is used for building a given version of [Siege](https://github.com/JoeDog/siege) in Debian. 
 
-The image uses the multi-stages build feature from Docker (version 17.05 and higher required). The final image weight 55.9MB.
+The image uses the multi-stages build feature from Docker (version 17.05 and higher required). The final image weight 22.7MB.
 
 ### Usage
 
